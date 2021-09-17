@@ -1,0 +1,22 @@
+{
+  "name": "vr_test",
+  "version": "1.0.0",
+  "description": "Short test suite to validate google maps is working when looking for neares stores around user.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taciones/vr-cyp.git"
+  },
+  "author": "Tacio Degrazia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taciones/vr-cyp/issues"
+  },
+  "homepage": "https://github.com/Taciones/vr-cyp#readme",
+  "devDependencies": {
+    "cypress": "^8.4.0"
+  }
+}
