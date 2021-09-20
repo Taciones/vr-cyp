@@ -7,6 +7,6 @@ To execute the tests you must have NodeJs and Cypress installed on local.
 Download this branch to your local.
 Go to root of directory and run the comand 
 
-	npm test run
+	npm test
   
 Watch the logs for results of test.
